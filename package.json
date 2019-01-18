@@ -1,1 +1,8 @@
-{}
+{
+  "scripts": {
+    "demo": "node hello.js"
+  },
+  "dependencies": {
+    "my-util": "github:freewind-demos/javascript-npm-use-github-branch-as-dependency-demo#util"
+  }
+}
