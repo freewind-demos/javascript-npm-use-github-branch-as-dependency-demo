@@ -2,4 +2,6 @@ function toUpper(str) {
   return str.toUpperCase();
 }
 
-module.exports = toUpper;
+module.exports = {
+  toUpper
+};
